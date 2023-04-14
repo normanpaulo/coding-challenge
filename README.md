@@ -1,7 +1,7 @@
 # coding-challenge
 
 
-Tech Assessment
+Tech Assessment:
 Please complete the following code test, screenshot your results, or you can post to GitHub
 or anything like that and include the link.
 For this test, please use C# or JavaScript.
