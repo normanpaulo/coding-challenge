@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/CodingChallenge/.vs
+/CodingChallenge/CodingChallenge/bin/Debug/net6.0
+/CodingChallenge/CodingChallenge/obj
+/CodingChallenge/CodingChallengeTest/bin
+/CodingChallenge/CodingChallengeTest/obj
